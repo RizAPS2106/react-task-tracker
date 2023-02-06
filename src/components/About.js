@@ -1,8 +1,8 @@
 const About = () => {
   return (
     <div>
-        <h4>Version 0.0.1</h4>
-        <a href="/">Go Back</a>
+      <h4>Version 0.0.1</h4>
+      <a href="/">Go Back</a>
     </div>
   )
 }

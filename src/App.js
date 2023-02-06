@@ -1,10 +1,10 @@
 import {useState, useEffect} from 'react'
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom' 
-import Header from './components/Header'
-import Tasks from './components/Tasks'
-import AddTask from './components/AddTask'
-import Footer from './components/Footer'
-import About from './components/About'
+import Header from './Components/Header'
+import Tasks from './Components/Tasks'
+import AddTask from './Components/AddTask'
+import Footer from './Components/Footer'
+import About from './Components/About'
 
 function App() {
   const [showAddTask, setShowAddTask] = useState(false)

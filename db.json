@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Reminder two",
       "day": "Feb 2nd at 02:02pm",
-      "reminder": true
+      "reminder": false
     }
   ]
 }
